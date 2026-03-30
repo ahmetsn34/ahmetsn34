@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">Im a New Graduate Software Developer From Turkey</h3>
 
-- 🔭 I’m currently working on [AnitsukiFE](anitsuki.com)
+- 🔭 I’m currently working on [AnitsukiFE-v2.0](anitsuki.com)
 
 - 🌱 I’m currently learning **Java and Java Swing**
 
