@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ahmet-t-171123180/](https://www.linkedin.com/in/ahmet-t-171123180/)
 
-- ⚡ Fun fact **I Love JDM Cars and PC Parts :)**
+- ⚡ Fun fact **I Love JDM Cars and PC Hardware :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
