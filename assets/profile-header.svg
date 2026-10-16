@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Ahmet Tosun — AI and automation</title>
+  <desc id="desc">A navy and teal banner for Ahmet Tosun. Practical software. Less repetitive work.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#12283A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#94A3B8" stroke-opacity=".06"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <path d="M0 0H1200" stroke="url(#line)" stroke-width="5"/>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif">
+    <text x="56" y="66" fill="#5EEAD4" font-size="15" font-weight="600" letter-spacing="3">SOFTWARE DEVELOPMENT / AI &amp; AUTOMATION</text>
+    <text x="52" y="148" fill="#F1F5F9" font-size="65" font-weight="750" letter-spacing="-2">Ahmet Tosun</text>
+    <text x="56" y="193" fill="#CBD5E1" font-size="24">Practical software. Less repetitive work.</text>
+    <text x="56" y="254" fill="#94A3B8" font-size="16" letter-spacing="1">PYTHON <tspan fill="#2DD4BF"> / </tspan> C# <tspan fill="#2DD4BF"> / </tspan> ISTANBUL</text>
+  </g>
+  <g fill="none" stroke="url(#line)" stroke-width="2">
+    <path d="M848 90H1000Q1022 90 1022 112V184Q1022 206 1044 206H1104" opacity=".7"/>
+    <path d="M848 206H918Q940 206 940 184V112Q940 90 962 90H1104" opacity=".35"/>
+    <rect x="806" y="64" width="70" height="52" rx="12" fill="#102435"/>
+    <rect x="806" y="180" width="70" height="52" rx="12" fill="#102435"/>
+    <rect x="1080" y="64" width="70" height="52" rx="12" fill="#102435"/>
+    <rect x="1080" y="180" width="70" height="52" rx="12" fill="#102435"/>
+    <path d="M827 82L819 90L827 98M855 82L863 90L855 98M845 78L837 102" stroke="#5EEAD4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M828 197H854M828 205H848M828 213H854" stroke="#5EEAD4" stroke-linecap="round"/>
+    <path d="M1099 90L1110 100L1133 79" stroke="#93C5FD" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1099 206H1133M1099 206L1107 198M1099 206L1107 214M1133 206L1125 198M1133 206L1125 214" stroke="#93C5FD" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
+
