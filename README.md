@@ -16,16 +16,49 @@ My projects turn repetitive work into useful workflows: processing documents, fo
 
 ### Tools I work with
 
+**Languages & applications**
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C sharp" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=151B23" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=151B23" alt="JavaScript" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="SQL Server" />
+</p>
+
+**AI & integrations**
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Codex-111827?style=flat-square" alt="Codex" />
+  <img src="https://img.shields.io/badge/OpenAI--compatible_APIs-412991?style=flat-square" alt="OpenAI-compatible APIs" />
+  <img src="https://img.shields.io/badge/AI_Agents-0F766E?style=flat-square" alt="AI agents" />
+  <img src="https://img.shields.io/badge/LLM_Tool_Calling-0F766E?style=flat-square" alt="LLM tool calling" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0F766E?style=flat-square" alt="Prompt engineering" />
+  <img src="https://img.shields.io/badge/Microsoft_Graph-0078D4?style=flat-square" alt="Microsoft Graph" />
+  <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram API" />
+</p>
+
+**Automation & development**
+
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=flat-square" alt="Tesseract OCR" />
+  <img src="https://img.shields.io/badge/CustomTkinter-2563EB?style=flat-square" alt="CustomTkinter" />
+  <img src="https://img.shields.io/badge/Pygame-5B8C32?style=flat-square" alt="Pygame" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=151B23" alt="Linux" />
 </p>
 
 ### Selected projects
