@@ -80,10 +80,10 @@ My work spans document workflows, desktop applications, AI integrations, and int
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ahmetsn34/BirthdayAppForHer">BirthdayAppForHer</a></h3>
-      <a href="https://ahmetsn34.github.io/BirthdayAppForHer/portfolio.html?demo=1"><img src="https://raw.githubusercontent.com/ahmetsn34/BirthdayAppForHer/main/docs/images/garden-desktop.jpg" alt="Interactive night garden with lavender and a birthday cake" width="100%" /></a>
-      <p>A first-person WebGL garden with an interactive cake, candle wishes, and synthesized music. A personal creative project with a neutral portfolio demo.</p>
-      <p><a href="https://ahmetsn34.github.io/BirthdayAppForHer/portfolio.html?demo=1">Explore the demo →</a></p>
-      <p><sub>JavaScript · Three.js · Web Audio · Node.js tests</sub></p>
+      <a href="https://ahmetsn34.github.io/BirthdayAppForHer/"><img src="assets/birthday-garden.jpg" alt="Interactive night garden with lavender and a birthday cake" width="100%" /></a>
+      <p>A personal birthday gift, made especially for her: a walkable night garden, a personal letter, candle wishes, and music.</p>
+      <p><a href="https://ahmetsn34.github.io/BirthdayAppForHer/">Visit the birthday gift →</a></p>
+      <p><sub>JavaScript · Three.js · Web Audio</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ahmetsn34/GaleriOtomasyon">Galeri Otomasyon</a></h3>
