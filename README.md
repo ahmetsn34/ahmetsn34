@@ -10,9 +10,9 @@
 
 ### About me
 
-I'm Ahmet, a developer based in Istanbul, Türkiye. I build practical tools with **Python and C#**, with a focus on **workflow automation, AI integrations, and desktop applications**.
+I'm Ahmet, a developer based in Istanbul, Türkiye. I build **practical automation tools and creative web experiences** with Python, C#, and JavaScript.
 
-My projects turn repetitive work into useful workflows: processing documents, following up on meetings, and connecting business tools. I also enjoy building web interfaces and experimenting with games.
+My work spans document workflows, desktop applications, AI integrations, and interactive browser projects. I enjoy turning an idea into something people can use or explore.
 
 ### Tools I work with
 
@@ -66,45 +66,42 @@ My projects turn repetitive work into useful workflows: processing documents, fo
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ahmetsn34/Teams_AI">Teams AI</a></h3>
-      <p>A meeting assistant that turns Microsoft Teams transcripts into tracked tasks, email reports, and Telegram updates.</p>
-      <p><sub>Python · SQLite · Microsoft Graph · LLM integration</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ahmetsn34/Purchase_AI">Purchase AI</a></h3>
-      <p>A procurement assistant that prepares RFQs from Excel, collects supplier quotes, and compares offers with Telegram approval.</p>
-      <p><sub>Python · SQLite · pandas · PDF processing</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/ahmetsn34/WellcomeISG-Automation">Wellcome ISG Automation</a></h3>
       <p>A desktop automation tool for personnel registration and occupational health and safety document workflows on the Wellcome portal.</p>
       <p><sub>Python · CustomTkinter · Selenium · pandas</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ahmetsn34/GaleriOtomasyon">Galeri Otomasyon</a></h3>
-      <p>A C# university project for managing vehicle, customer, personnel, and payment records.</p>
-      <p><sub>C# · Windows Forms · Entity Framework · SQL Server</sub></p>
+      <h3><a href="https://github.com/ahmetsn34/Seafort_Frontend">Seafort Frontend</a></h3>
+      <a href="https://github.com/ahmetsn34/Seafort_Frontend"><img src="https://raw.githubusercontent.com/ahmetsn34/Seafort_Frontend/main/docs/images/preview-desktop.jpg" alt="Seafort maritime services website preview" width="100%" /></a>
+      <p>A responsive, ten-page maritime services website interface with navigation, service pages, and demo forms.</p>
+      <p><sub>HTML · CSS · JavaScript · Static site checks</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ahmetsn34/Seafort_Frontend">Seafort Frontend</a></h3>
-      <p>A responsive, multi-page maritime services website interface built with HTML, CSS, and vanilla JavaScript.</p>
-      <p><sub>HTML · CSS · JavaScript · Responsive design</sub></p>
+      <h3><a href="https://github.com/ahmetsn34/BirthdayAppForHer">BirthdayAppForHer</a></h3>
+      <a href="https://ahmetsn34.github.io/BirthdayAppForHer/portfolio.html?demo=1"><img src="https://raw.githubusercontent.com/ahmetsn34/BirthdayAppForHer/main/docs/images/garden-desktop.jpg" alt="Interactive night garden with lavender and a birthday cake" width="100%" /></a>
+      <p>A first-person WebGL garden with an interactive cake, candle wishes, and synthesized music. A personal creative project with a neutral portfolio demo.</p>
+      <p><a href="https://ahmetsn34.github.io/BirthdayAppForHer/portfolio.html?demo=1">Explore the demo →</a></p>
+      <p><sub>JavaScript · Three.js · Web Audio · Node.js tests</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ahmetsn34/PixelShooter">PixelShooter</a></h3>
-      <p>A Pygame FPS experiment with a raycasting renderer, pathfinding bots, and round-based bomb objectives.</p>
-      <p><sub>Python · Pygame · Raycasting</sub></p>
+      <h3><a href="https://github.com/ahmetsn34/GaleriOtomasyon">Galeri Otomasyon</a></h3>
+      <p>A university source archive for vehicle, customer, personnel, and payment management. Setup notes document missing source files and database prerequisites.</p>
+      <p><sub>C# · Windows Forms · Entity Framework · SQL Server</sub></p>
     </td>
   </tr>
 </table>
 
+Also experimenting with [PixelShooter](https://github.com/ahmetsn34/PixelShooter), a Python/Pygame FPS with raycasting and pathfinding bots.
+
+### On hold
+
+[Purchase AI](https://github.com/ahmetsn34/Purchase_AI) is an **unfinished procurement prototype**. Development is paused; I plan to return to it later.
+
 ### Let's connect
 
-Interested in automation, AI tools, or practical software projects? Reach me on [LinkedIn](https://www.linkedin.com/in/ahmet-t-171123180/) or by [email](mailto:ahmettosun.dev@gmail.com).
+Interested in automation, AI tools, or creative web projects? Reach me on [LinkedIn](https://www.linkedin.com/in/ahmet-t-171123180/) or by [email](mailto:ahmettosun.dev@gmail.com).
 
 <sub>Outside of code: PC hardware, JDM cars, and the occasional game experiment.</sub>
 
