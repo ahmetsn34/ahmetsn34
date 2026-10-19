@@ -14,6 +14,47 @@ I'm Ahmet, a developer based in Istanbul, Türkiye. I build **practical automati
 
 My work spans document workflows, desktop applications, AI integrations, and interactive browser projects. I enjoy turning an idea into something people can use or explore.
 
+### Selected projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ahmetsn34/WellcomeISG-Automation">Wellcome ISG Automation</a></h3>
+      <a href="https://github.com/ahmetsn34/WellcomeISG-Automation"><img src="assets/wellcome-workflow.svg" alt="Workflow overview: personnel input, document classification, portal automation" width="100%" /></a>
+      <p>A desktop automation tool for personnel registration and occupational health and safety document workflows on the Wellcome portal.</p>
+      <p><sub>Python · CustomTkinter · Selenium · pandas</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ahmetsn34/Seafort_Frontend">Seafort Frontend</a></h3>
+      <a href="https://github.com/ahmetsn34/Seafort_Frontend"><img src="https://raw.githubusercontent.com/ahmetsn34/Seafort_Frontend/main/docs/images/preview-desktop.jpg" alt="Seafort maritime services website preview" width="100%" /></a>
+      <p>A responsive, ten-page maritime services website interface with navigation, service pages, and demo forms.</p>
+      <p><sub>HTML · CSS · JavaScript · Static site checks</sub></p>
+      <p><a href="https://github.com/ahmetsn34/Seafort_Frontend/actions/workflows/check.yml"><img src="https://github.com/ahmetsn34/Seafort_Frontend/actions/workflows/check.yml/badge.svg?branch=main" alt="Seafort static site checks status" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ahmetsn34/BirthdayAppForHer">BirthdayAppForHer</a></h3>
+      <a href="https://ahmetsn34.github.io/BirthdayAppForHer/"><img src="assets/birthday-garden.jpg" alt="Interactive night garden with lavender and a birthday cake" width="100%" /></a>
+      <p>A personal birthday gift, made especially for her: a walkable night garden, a personal letter, candle wishes, and music.</p>
+      <p><a href="https://ahmetsn34.github.io/BirthdayAppForHer/">Visit the birthday gift →</a></p>
+      <p><sub>JavaScript · Three.js · Web Audio</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ahmetsn34/GaleriOtomasyon">Galeri Otomasyon</a></h3>
+      <a href="https://github.com/ahmetsn34/GaleriOtomasyon"><img src="assets/galeri-architecture.svg" alt="Source architecture: Windows Forms, Entity Framework, SQL Server; setup incomplete" width="100%" /></a>
+      <p>A university source archive for vehicle, customer, personnel, and payment management. Setup notes document missing source files and database prerequisites.</p>
+      <p><sub>C# · Windows Forms · Entity Framework · SQL Server</sub></p>
+    </td>
+  </tr>
+</table>
+
+Also experimenting with [PixelShooter](https://github.com/ahmetsn34/PixelShooter), a Python/Pygame FPS with raycasting and pathfinding bots.
+
+### On hold
+
+[Purchase AI](https://github.com/ahmetsn34/Purchase_AI) is an **unfinished procurement prototype**. Development is paused; I plan to return to it later.
+
 ### Tools I work with
 
 **Languages & applications**
@@ -60,44 +101,6 @@ My work spans document workflows, desktop applications, AI integrations, and int
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=151B23" alt="Linux" />
 </p>
-
-### Selected projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ahmetsn34/WellcomeISG-Automation">Wellcome ISG Automation</a></h3>
-      <p>A desktop automation tool for personnel registration and occupational health and safety document workflows on the Wellcome portal.</p>
-      <p><sub>Python · CustomTkinter · Selenium · pandas</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ahmetsn34/Seafort_Frontend">Seafort Frontend</a></h3>
-      <a href="https://github.com/ahmetsn34/Seafort_Frontend"><img src="https://raw.githubusercontent.com/ahmetsn34/Seafort_Frontend/main/docs/images/preview-desktop.jpg" alt="Seafort maritime services website preview" width="100%" /></a>
-      <p>A responsive, ten-page maritime services website interface with navigation, service pages, and demo forms.</p>
-      <p><sub>HTML · CSS · JavaScript · Static site checks</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ahmetsn34/BirthdayAppForHer">BirthdayAppForHer</a></h3>
-      <a href="https://ahmetsn34.github.io/BirthdayAppForHer/"><img src="assets/birthday-garden.jpg" alt="Interactive night garden with lavender and a birthday cake" width="100%" /></a>
-      <p>A personal birthday gift, made especially for her: a walkable night garden, a personal letter, candle wishes, and music.</p>
-      <p><a href="https://ahmetsn34.github.io/BirthdayAppForHer/">Visit the birthday gift →</a></p>
-      <p><sub>JavaScript · Three.js · Web Audio</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ahmetsn34/GaleriOtomasyon">Galeri Otomasyon</a></h3>
-      <p>A university source archive for vehicle, customer, personnel, and payment management. Setup notes document missing source files and database prerequisites.</p>
-      <p><sub>C# · Windows Forms · Entity Framework · SQL Server</sub></p>
-    </td>
-  </tr>
-</table>
-
-Also experimenting with [PixelShooter](https://github.com/ahmetsn34/PixelShooter), a Python/Pygame FPS with raycasting and pathfinding bots.
-
-### On hold
-
-[Purchase AI](https://github.com/ahmetsn34/Purchase_AI) is an **unfinished procurement prototype**. Development is paused; I plan to return to it later.
 
 ### Let's connect
 

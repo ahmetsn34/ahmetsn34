@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Galeri Otomasyon source architecture</title>
+  <desc id="desc">The source archive connects C# Windows Forms screens for vehicles, customers, personnel, and finance to an Entity Framework 6 database-first model and SQL Server. Missing source files and database setup still need to be restored. This is an architecture diagram, not an application screenshot.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#242340"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#94A3B8" stroke-opacity=".06"/>
+    </pattern>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M1 1L8 5L1 9" fill="none" stroke="#A5B4FC" stroke-width="2"/>
+    </marker>
+  </defs>
+  <rect width="1280" height="720" fill="url(#background)"/>
+  <rect width="1280" height="720" fill="url(#grid)"/>
+  <path d="M0 0H1280" stroke="#818CF8" stroke-width="6"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="64" y="74" fill="#A5B4FC" font-size="23" font-weight="600" letter-spacing="3">SOURCE ARCHITECTURE</text>
+    <text x="60" y="142" fill="#F1F5F9" font-size="48" font-weight="700">Galeri Otomasyon</text>
+    <text x="64" y="190" fill="#CBD5E1" font-size="26">A C# desktop project for dealership administration.</text>
+
+    <g fill="#182238" stroke="#3D4669" stroke-width="2">
+      <rect x="64" y="262" width="344" height="232" rx="20"/>
+      <rect x="468" y="262" width="344" height="232" rx="20"/>
+      <rect x="872" y="262" width="344" height="232" rx="20"/>
+    </g>
+    <g fill="none" stroke="#A5B4FC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="92" y="294" width="48" height="38" rx="5"/>
+      <path d="M92 305H140M107 342H125M116 332V342"/>
+      <rect x="497" y="293" width="16" height="16" rx="3"/>
+      <rect x="528" y="323" width="16" height="16" rx="3"/>
+      <rect x="497" y="323" width="16" height="16" rx="3"/>
+      <path d="M505 310V323M513 331H528"/>
+      <ellipse cx="926" cy="299" rx="24" ry="8"/>
+      <path d="M902 299V331C902 342 950 342 950 331V299M902 315C902 326 950 326 950 315"/>
+      <path d="M423 378H453" marker-end="url(#arrow)"/>
+      <path d="M827 378H857" marker-end="url(#arrow)"/>
+    </g>
+    <g fill="#F1F5F9" font-size="30" font-weight="600">
+      <text x="92" y="390">Windows Forms</text>
+      <text x="496" y="390">Entity Framework 6</text>
+      <text x="900" y="390">SQL Server</text>
+    </g>
+    <g fill="#CBD5E1" font-size="24">
+      <text x="92" y="432">Vehicles + customers</text>
+      <text x="92" y="467">Personnel + finance</text>
+      <text x="496" y="432">EDMX database-first</text>
+      <text x="496" y="467">Generated entity classes</text>
+      <text x="900" y="432">Existing schema required</text>
+      <text x="900" y="467">Local database connection</text>
+    </g>
+    <rect x="64" y="538" width="1152" height="78" rx="14" fill="#2D293B" stroke="#5D4B59"/>
+    <circle cx="98" cy="577" r="7" fill="#FBBF24"/>
+    <text x="122" y="586" fill="#FDE68A" font-size="26">Source archive: missing project files and database setup are documented.</text>
+    <text x="64" y="672" fill="#94A3B8" font-size="22">C#  /  .NET FRAMEWORK 4.8  /  WINDOWS FORMS  /  SQL SERVER</text>
+  </g>
+</svg>
